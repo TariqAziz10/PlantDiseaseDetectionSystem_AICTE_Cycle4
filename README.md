@@ -1,0 +1,2 @@
+# PlantDiseaseDetectionSystem_SustainableAgriculture
+Training on Plant Disease Classification Detection for Sustainable Agriculture
